@@ -73,9 +73,9 @@ ORG:Big Bear Wellness Studio
 TEL;TYPE=CELL:787-413-2327
 TEL;TYPE=CELL:939-265-5306
 EMAIL:bigbearwellness@gmail.com
-URL:https://borgesjorge2019.github.io/BorgesJorge2019.io/
-ADR:;;Caguas;Puerto Rico;;;
-NOTE:En Big Bear Wellness Studio nos dedicamos a encaminarte en el proceso de desarrollar tu mejor versión, por eso ofrecemos: \n\n• Evaluación de bienestar y pruebas de rendimiento\n• Entrenamiento Personal\n• "Bootcamps"\n• Calendario mensual de actividades dentro y fuera de nuestras facilidades\n• Talleres sobre bienestar físico, mental y espiritual
+URL:https://bigbearwellnessstudio.github.io/
+ADR:;;San Lorenzo;Puerto Rico;;;
+NOTE:Nos especializamos en acondicionamiento físico y fortalecimiento mental, con programas que integran cuerpo, mente y espíritu.
 END:VCARD`;
 
   // Detectar si es un dispositivo móvil

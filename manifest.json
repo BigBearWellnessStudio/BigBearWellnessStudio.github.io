@@ -1,6 +1,6 @@
 {
     "name": "Big Bear Wellness Studio",
-    "short_name": "BigBear",
+    "short_name": "BigBearWellnessStudio",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
