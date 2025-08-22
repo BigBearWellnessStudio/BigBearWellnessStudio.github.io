@@ -100,7 +100,7 @@ p {
   cursor: pointer; /* Cursor de mano al pasar sobre el botón */
   text-align: center; /* Texto centrado */
   padding: 16px; /* Más espacio interno para escritorio */
-  border-radius: 0; /* Esquinas rectas - cambiar a 8px para esquinas redondeadas */
+  border-radius: 8px; /* Esquinas rectas - cambiar a 8px para esquinas redondeadas */
   min-height: 56px; /* Altura mínima aumentada */
   box-sizing: border-box; /* Incluye padding en el tamaño total */
   display: flex; /* Flexbox para alinear icono y texto */
@@ -130,7 +130,7 @@ p {
   font-size: 16px; /* Tamaño aumentado para escritorio */
   cursor: pointer; /* Cursor de mano */
   text-align: center; /* Texto centrado */
-  border-radius: 0; /* Esquinas rectas - cambiar para redondear */
+  border-radius: 8px; /* Esquinas rectas - cambiar para redondear */
   box-sizing: border-box; /* Incluye padding y border en el tamaño */
   display: flex; /* Flexbox para alinear contenido */
   align-items: center; /* Centra verticalmente */
